@@ -1,8 +1,6 @@
+BA3R REI Tool:
 
-Uconn Bootcamp Project One: REI Tool
-
-
-As the first project for the Uconn Coding Bootcamp our team is setting out to build a tool for real estate investors and average homebuyers to get information and compare to the current market to make educated purchasing decisions for the user.
+Our team is setting out to build a tool for real estate investors and average homebuyers to get information and compare to the current market to make educated purchasing decisions for the user.
 
 ## User Story
 
